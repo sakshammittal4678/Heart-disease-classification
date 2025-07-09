@@ -56,7 +56,7 @@ Hyperparameter tuning was done using **GridSearchCV** to get the best model perf
 ## ✅ Final Model Results
 
 - **Best Model:** Logistic Regression (with GridSearchCV)
-- **Accuracy:** ~86%
+- **Accuracy:** 90.1%
 - **Confusion Matrix:**
 
 | Actual\Predicted |  0 |  1 |
